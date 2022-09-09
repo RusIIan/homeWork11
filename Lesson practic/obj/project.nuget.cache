@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6+JcvlOiywt7c2WiOPFXU2WwXhJuTpU4+0UCLaSmLuEv1Np3eWgKI3WxfnYnCfn3rQjumLQ+ueZqUxKMd8spA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\Lab\\Lesson practic\\Lesson practic\\Lesson practic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
